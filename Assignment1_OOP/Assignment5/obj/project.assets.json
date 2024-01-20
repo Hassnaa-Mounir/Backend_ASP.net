@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "myLibrary_Ass1_OOP/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/myLibrary_Ass1_OOP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/myLibrary_Ass1_OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "myLibrary_Ass1_OOP/1.0.0": {
+      "type": "project",
+      "path": "../myLibrary_Ass1_OOP/myLibrary_Ass1_OOP.csproj",
+      "msbuildProject": "../myLibrary_Ass1_OOP/myLibrary_Ass1_OOP.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "myLibrary_Ass1_OOP >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Assignment5\\Assignment5.csproj",
+      "projectName": "Assignment5",
+      "projectPath": "C:\\Users\\pc\\source\\repos\\Assignment5\\Assignment5.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pc\\source\\repos\\Assignment5\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\pc\\source\\repos\\myLibrary_Ass1_OOP\\myLibrary_Ass1_OOP.csproj": {
+              "projectPath": "C:\\Users\\pc\\source\\repos\\myLibrary_Ass1_OOP\\myLibrary_Ass1_OOP.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

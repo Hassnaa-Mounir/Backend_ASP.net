@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\myLibrary_Ass1_OOP\bin\Debug\net7.0\myLibrary_Ass1_OOP.deps.json
+C:\Users\pc\source\repos\myLibrary_Ass1_OOP\bin\Debug\net7.0\myLibrary_Ass1_OOP.dll
+C:\Users\pc\source\repos\myLibrary_Ass1_OOP\bin\Debug\net7.0\myLibrary_Ass1_OOP.pdb
+C:\Users\pc\source\repos\myLibrary_Ass1_OOP\obj\Debug\net7.0\myLibrary_Ass1_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\myLibrary_Ass1_OOP\obj\Debug\net7.0\myLibrary_Ass1_OOP.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\myLibrary_Ass1_OOP\obj\Debug\net7.0\myLibrary_Ass1_OOP.AssemblyInfo.cs
+C:\Users\pc\source\repos\myLibrary_Ass1_OOP\obj\Debug\net7.0\myLibrary_Ass1_OOP.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\myLibrary_Ass1_OOP\obj\Debug\net7.0\myLibrary_Ass1_OOP.dll
+C:\Users\pc\source\repos\myLibrary_Ass1_OOP\obj\Debug\net7.0\refint\myLibrary_Ass1_OOP.dll
+C:\Users\pc\source\repos\myLibrary_Ass1_OOP\obj\Debug\net7.0\myLibrary_Ass1_OOP.pdb
+C:\Users\pc\source\repos\myLibrary_Ass1_OOP\obj\Debug\net7.0\ref\myLibrary_Ass1_OOP.dll
