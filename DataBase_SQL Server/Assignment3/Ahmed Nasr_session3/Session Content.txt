@@ -1,0 +1,40 @@
+01. Revision
+02. What is SQL?
+03. What are the SQL Categories? [Overview]
+04. DDL Data Definition Language [Code]
+	4.1 Create
+		4.1.1 Create Database
+        	4.1.2 Create Database Objects [Table]
+	4.2 Alter
+		4.2.1 Alter Database
+		4.2.2 Alter Database Objects [Table]
+	4.3 Drop
+		4.3.1 Drop Database
+		4.3.2 Drop Database Objects [Table]
+05. DDL Data Definition Language [Wizard]
+06. Database Files [MDF, LDF]
+07. Primary Key
+08. Foreign Key
+09. Unique Key
+10. Database Constraints 
+	10.1 Identity 
+	10.2 Not NULL
+	10.3 Default Value
+11. Database Diagram
+12. DML Data Manpulation Language [Code]
+	12.1 Insert (5 Types)
+		12.1 Simple Insert
+		12.2 Row Constructor Insert
+	12.2 Update
+	12.3 Delete
+13. DML Data Manpulation Language [Wizard]
+14. DQL Data Query Language - Select [Code]
+	14.1 Between ___ And ___
+	14.2 Not Between ___ And ___
+	14.3 In(___, ___,...)
+	14.4 Not In(___, ___,...)
+	14.5 Is NULL
+	14.6 Is Not NULL
+	14.7 Like 'Pattern'
+	14.8 Distinct
+	14.9 Order By
