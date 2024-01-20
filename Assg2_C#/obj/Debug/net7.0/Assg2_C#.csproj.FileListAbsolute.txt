@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Assg2_C#\bin\Debug\net7.0\Assg2_C#.exe
+C:\Users\pc\source\repos\Assg2_C#\bin\Debug\net7.0\Assg2_C#.deps.json
+C:\Users\pc\source\repos\Assg2_C#\bin\Debug\net7.0\Assg2_C#.runtimeconfig.json
+C:\Users\pc\source\repos\Assg2_C#\bin\Debug\net7.0\Assg2_C#.dll
+C:\Users\pc\source\repos\Assg2_C#\bin\Debug\net7.0\Assg2_C#.pdb
+C:\Users\pc\source\repos\Assg2_C#\obj\Debug\net7.0\Assg2_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Assg2_C#\obj\Debug\net7.0\Assg2_C#.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Assg2_C#\obj\Debug\net7.0\Assg2_C#.AssemblyInfo.cs
+C:\Users\pc\source\repos\Assg2_C#\obj\Debug\net7.0\Assg2_C#.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Assg2_C#\obj\Debug\net7.0\Assg2_C#.dll
+C:\Users\pc\source\repos\Assg2_C#\obj\Debug\net7.0\refint\Assg2_C#.dll
+C:\Users\pc\source\repos\Assg2_C#\obj\Debug\net7.0\Assg2_C#.pdb
+C:\Users\pc\source\repos\Assg2_C#\obj\Debug\net7.0\Assg2_C#.genruntimeconfig.cache
+C:\Users\pc\source\repos\Assg2_C#\obj\Debug\net7.0\ref\Assg2_C#.dll
